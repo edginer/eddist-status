@@ -6,14 +6,14 @@
     "slug": "eddi",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "98.47%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.78%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 399,
-    "timeDay": 6815,
-    "timeWeek": 2445,
-    "timeMonth": 868,
+    "timeDay": 221,
+    "timeWeek": 2438,
+    "timeMonth": 869,
     "timeYear": 399,
     "dailyMinutesDown": {
       "2025-08-11": 22
